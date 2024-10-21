@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi there! I'm **Jamiu**, a software developer also known as devjaycode. I’m passionate about creating impactful digital experiences that solve real-world problems. My development journey centers around building innovative, user-focused applications that blend creativity with functionality.
+I'm **Jamiu**, a software developer also known as devjaycode. I’m passionate about creating impactful digital experiences that solve real-world problems. My development journey centers around building innovative, user-focused applications that blend creativity with functionality.
 
 💻 My toolbox includes **Java**, **Kotlin**, **JavaScript**, **TypeScript**, **PHP**, **Dart**, and **MySQL**, and I’m continuously learning and expanding my skills. I’m all about clean code, user-friendly interfaces, and bringing fresh ideas to life.
 
