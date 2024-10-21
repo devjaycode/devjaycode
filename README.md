@@ -18,3 +18,8 @@ I'm **Jamiu**, a software developer also known as devjaycode. I’m passionate a
 - ⚡ Fun fact: I love exploring new coding challenges and am always up for a good hackathon!
 
 Thanks for stopping by! Feel free to check out my repositories and join me on this coding adventure! 🚀
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johnoye742&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnoye742&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
