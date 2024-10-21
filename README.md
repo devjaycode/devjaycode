@@ -10,6 +10,7 @@ I'm **Jamiu**, a software developer also known as devjaycode. I’m passionate a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="30" alt="android studio logo"/>
 </div>
 
+
 🚀 I love collaborating with others on interesting projects and contributing to the tech community. If you’re interested in connecting, collaborating, or just chatting about development, feel free to reach out at [devemafine@gmail.com](mailto:devemafine@gmail.com).
 
 ### Here are some fun facts about me:
