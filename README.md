@@ -62,7 +62,7 @@ I'm **Jamiu**, a software developer also known as devjaycode. I’m passionate a
 - 🔭 I’m currently working on innovative software projects that enhance user experiences and solve real-world problems.
 - 🌱 I’m currently learning the latest trends in web development and exploring new technologies to expand my skill set.
 - 👯 I’m looking to collaborate on exciting projects, especially those focused on user-centric design and functionality.
-- 🤔 I’m looking for help with optimizing my applications for performance and scalability.
+- 🌍 I’m looking to connect with like-minded developers to exchange ideas and collaborate on innovative projects.
 - 💬 Ask me about Java, Kotlin, PHP, or anything related to software development!
 - 📫 How to reach me: [devemafine@gmail.com](mailto:devemafine@gmail.com)
 - 😄 Pronouns: He/Him
